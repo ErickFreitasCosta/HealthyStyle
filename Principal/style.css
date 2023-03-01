@@ -5,6 +5,7 @@ body{
     height: 700px;
     margin: 0;
     box-sizing: border-box;
+    background-image: url(../imagens/fundo.jpg);
 }
 
 nav{

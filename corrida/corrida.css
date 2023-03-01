@@ -1,3 +1,7 @@
+body{
+    background-image: url(../imagens/fundo.jpg);
+    background-size: cover;
+}
 .lado{
     display: flex;
 }
