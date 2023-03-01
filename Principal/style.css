@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+body{
+    height: 700px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: #333;
+    
+    position: fixed;
+}
+
+
+.footer{
+    background-color: #333;
+    height: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}

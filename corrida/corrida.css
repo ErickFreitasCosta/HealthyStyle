@@ -1,0 +1,10 @@
+.lado{
+    display: flex;
+}
+.paragrafo{
+    letter-spacing: 2px;
+    line-height: 1;
+}
+.principal{
+    float: left; /* Isso serve para deixar as letras se encaixando na imagem*/
+}
