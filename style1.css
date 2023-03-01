@@ -1,6 +1,17 @@
 h1{
-    font-size: 300px;
+    font-size: 5em;
+    font-size: larger;
 }
+.tamanho{
+        padding: 50px;
+
+}
+.borde{
+        background:rgba(74, 71, 71, 0.3);
+        border-radius: 360px;
+        box-shadow: 0 0 100px #333;
+}
+
 .centralizar{
     display: flex;
     align-items: center;
@@ -8,7 +19,7 @@ h1{
     flex-direction: column;
     border: 1px solid;
     height: 105vh;
-    background: aqua;
+    background: linear-gradient(to bottom,aqua, white);
 }
 .espaco{
     height: 30px;
